@@ -1,14 +1,14 @@
 {
     "songData": [
         {
-            "albumName": "The classical guitar compendium",
-            "albumCoverMax": "https://littleflute.github.io/b124/00151382-wl.jpg",
+            "albumName": "Folk duets",
+            "albumCoverMax": "https://littleflute.github.io/b678/index.jpg",
             "albumSong": [
                 {
                     "musicName": "01 Sor Study No. 6 Technical Exercise",
                     "musicSinger": "Sor",
-                    "musicLink": "https://littleflute.github.io/b124/archive/01%20Sor%20Study%20No.%206%20Exercise.mp3",
-                    "lyricsLink": "lyrics/01.lrc",
+                    "musicLink": "https://littleflute.github.io/b678/Folk duets/cd/01_曲目 1.mp3",
+                    "lyricsLink": "https://littleflute.github.io/b678/lyrics/Folk duets/cd/01.lrc",
                     "musicTime": "01:12",
                     "albumCoverMin": "https://littleflute.github.io/b124/00151382-wl.jpg"
                 },
